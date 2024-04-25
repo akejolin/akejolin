@@ -5,12 +5,20 @@ I have many times contributed to open source projects. I have seen new technolog
 
 Preferable tech domains: Node, AWS and Typescript but also leadership, agile coach and delivery management.
 
-
 ## Projects
+
+### Asteroids
 
 Here is fun game (Asteroids) I have created. The game was built in `Typescript` with `React` and `Redux` and uses the `canvas` to render the graphics. Enjoy!
 
 ![image](https://github.com/akejolin/akejolin/assets/69710468/55bcf9da-c41a-4cb8-8dfa-2404d91a9146)
 
+https://static.akejolin.se/asteroids/index.html
 
-https://static.akejolin.se/asteroids/index.html 
+### Screen saver
+I made a screen saver that takes a snap shot of an emoji and creates particles as builing blocks. With some iterations of an array I managed to create some cool effects moving around the particles. 
+
+<img width="1092" alt="image" src="https://github.com/akejolin/akejolin/assets/69710468/abb96fb8-2ff9-4605-9b6a-393c7e38093d">
+
+     
+https://akejolin.github.io/canvas-screen-saver/
