@@ -9,7 +9,7 @@ Preferable tech domains: Node, AWS and Typescript but also leadership, agile coa
 
 ### Asteroids
 
-Here is fun game (Asteroids) I have created. The game was built in `Typescript` with `React` and `Redux` and uses the `canvas` to render the graphics. Enjoy!
+Here is fun game (Asteroids) I have created. The game was built in `Typescript` with `NextJS`, `React` and `Redux` and uses the `canvas` to render the graphics. Enjoy!
 
 ![image](https://github.com/akejolin/akejolin/assets/69710468/55bcf9da-c41a-4cb8-8dfa-2404d91a9146)
 
